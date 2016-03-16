@@ -4,7 +4,7 @@ cc7-lab7
 
  - Alexander Baquiax 
  - Galileo University 
- - [\[Repo - https://github.com/baquiax/cc7-lab7.git](https://github.com/baquiax/cc7-lab7.git)
+ - [Repo - https://github.com/baquiax/cc7-lab7.git](https://github.com/baquiax/cc7-lab7.git)
 
 # Modo de uso
 `javac Runner.java && java Runner`
